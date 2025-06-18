@@ -333,8 +333,8 @@ We welcome contributions! This is an open-source project built for the community
 
 ## 📞 Support & Community
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/yourusername/edulearn-platform/issues)
-- **Discussions**: [Community discussions](https://github.com/yourusername/edulearn-platform/discussions)
+- **GitHub Issues**: [Report bugs or request features](https://github.com/github-pratik/Bolt_Hackathon/issues)
+- **Discussions**: [Community discussions](https://github.com/github-pratik/Bolt_Hackathon/discussions)
 - **Documentation**: [Wiki](https://github.com/yourusername/edulearn-platform/wiki)
 - **Discord**: [Join our community](https://discord.gg/edulearn)
 - **Email**: support@edulearn.app
